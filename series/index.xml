@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Kun Fang</title>
-    <link>/series/</link>
+    <link>https://fanghenshaometeor.github.io/series/</link>
     <description>Recent content in Series on Kun Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2019 K. Fang
-</copyright><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="https://fanghenshaometeor.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
