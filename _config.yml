@@ -12,7 +12,7 @@ title                    : " 方堃 Kun Fang "
 title_separator          : "-"
 name                     : &name "Kun Fang"
 description              : &description "Ph.D. student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fanghenshaometeor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
