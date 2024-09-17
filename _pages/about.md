@@ -14,7 +14,7 @@ Before coming to SJTU, I received the BA.Eng. degree in [College of Electronic a
 
 Research interests
 ---
-My research interests focus on **trustworthy deep learning**. Currently, my works are about the output reliability from Deep Neural Networks (DNNs) against those *perturbed* or *shifted* inputs, within the fields of **adversarial robustness** and **out-of-distribution detection**.
+My research interests focus on **trustworthy deep learning**. Currently, my works are about the output reliability from Deep Neural Networks (DNNs) against those *pixel-perturbed* or *distribution-shifted* inputs, within the fields of **adversarial robustness** and **out-of-distribution detection**.
 
 - DNNs trained on clean images show terrible generalization performance on those carefully-designed invisible perturbed images, *i.e.*, *adversarial examples*, which has raised widespread attention on the *adversarial robustness* of DNNs.
 - DNNs cannot generalize well on data that differs from the training distribution, *i.e.*, *In-Distribution (InD)*. In this regard, it remains a valuable task of detecting whether new samples are from the InD or OoD (Out-of-Distribution) of DNNs in the inference stage.
