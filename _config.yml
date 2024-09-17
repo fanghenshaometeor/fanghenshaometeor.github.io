@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " 方堃 Kun Fang "
+title                    : " 方堃 Kun FANG "
 title_separator          : "-"
-name                     : &name "Kun Fang"
+name                     : &name "Kun FANG"
 description              : &description "Ph.D. student"
 url                      : "https://fanghenshaometeor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "fanghenshaometeor/fanghenshaometeor.github.io"
 author:
   # Biographic information
   avatar           : "https://fanghenshaometeor.github.io/images/profile.jpg"
-  name             : "方堃 Kun Fang"
+  name             : "方堃 Kun FANG"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student"
   location         : "Shanghai, China"
