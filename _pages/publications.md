@@ -29,7 +29,7 @@ author_profile: true
 
 ### Journals & Conferences
 ---
-**Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. *Advances in Neural Information Processing Systems* (2024). **[arxiv](https://arxiv.org/abs/2402.02949)**
+**Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. *Advances in Neural Information Processing Systems* (2024). **[arxiv](https://arxiv.org/abs/2402.02949)**, **[code](https://github.com/fanghenshaometeor/ood-kernel-pca)**
 
 **Fang K.**, et al. Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective. *International Journal of Computer Vision* (2024). **[journal](https://doi.org/10.1007/s11263-024-02156-x)**, **[arxiv](https://arxiv.org/abs/2310.14227)**, **[code](https://github.com/fanghenshaometeor/ood-mode-ensemble)**
 
