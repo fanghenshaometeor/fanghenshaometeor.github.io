@@ -19,7 +19,7 @@ author_profile: true
 
 ### Preprint
 ---
-**Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2402.02949)**
+<!-- **Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2402.02949)** -->
 
 **Fang K.**, et al. DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2409.10094)**
 
@@ -27,8 +27,10 @@ author_profile: true
 
 ---
 
-### Journals
+### Journals & Conferences
 ---
+**Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. *Advances in Neural Information Processing Systems* (2024). **[arxiv](https://arxiv.org/abs/2402.02949)**
+
 **Fang K.**, et al. Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective. *International Journal of Computer Vision* (2024). **[journal](https://doi.org/10.1007/s11263-024-02156-x)**, **[arxiv](https://arxiv.org/abs/2310.14227)**, **[code](https://github.com/fanghenshaometeor/ood-mode-ensemble)**
 
 **Fang K.**, et al. Towards Robust Neural Networks via Orthogonal Diversity. *Pattern Recognition* (2024). **[journal](https://doi.org/10.1016/j.patcog.2024.110281)**, **[arxiv](https://arxiv.org/abs/2010.12190)**, **[code](https://github.com/fanghenshaometeor/DIversity-via-Orthogonality)** <!--, **[read more](/publication/2024-02-17-paper-title-number-4)**-->
