@@ -21,9 +21,11 @@ author_profile: true
 ---
 <!-- **Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2402.02949)** -->
 
-**Fang K.**, Tao, Q., Yang Z., DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2409.10094)**
+DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2409.10094)**  
+**Kun Fang**, Qinghua Tao, Zuopeng Yang, Xiaolin Huang, Jie Yang
 
-**Fang K.**, et al. On Multi-head Ensemble of Smoothed Classifiers for Certified Robustness. **[arxiv](https://arxiv.org/abs/2211.10882)**
+On Multi-head Ensemble of Smoothed Classifiers for Certified Robustness. **[arxiv](https://arxiv.org/abs/2211.10882)**  
+**Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Xiaolin Huang, Jie Yang
 
 ---
 
@@ -38,7 +40,7 @@ Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Per
 *International Journal of Computer Vision* (IJCV), 2024. **[journal](https://doi.org/10.1007/s11263-024-02156-x)**, **[arxiv](https://arxiv.org/abs/2310.14227)**, **[code](https://github.com/fanghenshaometeor/ood-mode-ensemble)**
 
 Towards Robust Neural Networks via Orthogonal Diversity  
-**Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Xiaolin Huang, Jie Yang  
+**Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Jia Cai, Feipeng Cai, Xiaolin Huang, Jie Yang  
 *Pattern Recognition*, 2024. **[journal](https://doi.org/10.1016/j.patcog.2024.110281)**, **[arxiv](https://arxiv.org/abs/2010.12190)**, **[code](https://github.com/fanghenshaometeor/DIversity-via-Orthogonality)** <!--, **[read more](/publication/2024-02-17-paper-title-number-4)**-->
 
 End-to-end Kernel Learning via Generative Random Fourier Features.  
