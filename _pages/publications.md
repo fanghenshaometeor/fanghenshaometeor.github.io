@@ -21,7 +21,7 @@ author_profile: true
 ---
 <!-- **Fang K.**, et al. Kernel PCA for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2402.02949)** -->
 
-DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection. **[arxiv](https://arxiv.org/abs/2409.10094)**  
+Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribution Detection with Diffusion models. **[arxiv](https://arxiv.org/abs/2409.10094)**  
 **Kun Fang**, Qinghua Tao, Zuopeng Yang, Xiaolin Huang, Jie Yang
 
 On Multi-head Ensemble of Smoothed Classifiers for Certified Robustness. **[arxiv](https://arxiv.org/abs/2211.10882)**  
