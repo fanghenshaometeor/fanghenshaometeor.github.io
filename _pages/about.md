@@ -19,20 +19,6 @@ My research interests focus on **trustworthy deep learning**. Currently, my work
 - DNNs trained on clean images show terrible generalization performance on those carefully-designed invisible perturbed images, *i.e.*, *adversarial examples*, which has raised widespread attention on the *adversarial robustness* of DNNs.
 - DNNs cannot generalize well on data that differs from the training distribution, *i.e.*, *In-Distribution (InD)*. In this regard, it remains a valuable task of detecting whether new samples are from the InD or OoD (Out-of-Distribution) of DNNs in the inference stage.
 
-<!-- - **Adversarial robustness** and **pixel-level perturbations**
-
-DNNs trained on clean images show weak generalization performance on those carefully-designed invisible perturbed images, *i.e.*, *adversarial examples*, which raises attention on the *adversarial robustness* of DNNs.
-The process of generating adversarial examples is known as the *adversarial attack*, while *adversarial defenses* aim at improving the performance of DNNs on adversarial examples.
-Prevailing white-box attacks rely on image gradients to generate pixel-level perturbations, which are added on clean images to create adversarial examples.
-Prevalent adversarial defenses adopt the data augmentation technique by involving adversarial examples into the training data, so as to train more adversarially-robust DNNs.
-It remains valuable tasks of devising powerful adversarial attacks to fool DNNs or enhanced adversarial defenses to strengthen DNNs, both of which would provide insights on better understandings of DNNs.
-
-- **Out-of-distribution detection** and **distribution-level shifts**
-
-In the inference or deployment stage, DNNs would inevitably encounter samples that differ from the training distribution of DNNs, *i.e.*, in-distribution (InD) -->
-
-
-
 In addition, I have previously dabbled in the **random Fourier features**, a sub-field of the **kernel methods** in machine learning.
 
 ---
@@ -40,4 +26,4 @@ In addition, I have previously dabbled in the **random Fourier features**, a sub
 
 Awards
 ---
-- Outstanding reviewer for [ECCV 2024](http://fanghenshaometeor.github.io/files/outstandingreviewereccv2024.pdf).
+- Outstanding Reviewer for [ECCV 2024](http://fanghenshaometeor.github.io/files/outstandingreviewereccv2024.pdf).
