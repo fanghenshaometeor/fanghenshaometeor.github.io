@@ -36,3 +36,8 @@ In the inference or deployment stage, DNNs would inevitably encounter samples th
 In addition, I have previously dabbled in the **random Fourier features**, a sub-field of the **kernel methods** in machine learning.
 
 ---
+
+
+Awards
+---
+- Outstanding reviewer for [ECCV 2024](http://fanghenshaometeor.github.io/files/outstandingreviewereccv2024.pdf).
