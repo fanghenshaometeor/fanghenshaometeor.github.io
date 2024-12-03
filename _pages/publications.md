@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Here lists a part of my publications on <b>kernels</b>, <b>adversarial robustness</b> and <b>out-of-distribution detection</b>. You can find a full collection of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Here lists a part of my publications on <b>kernels</b>, <b>adversarial learning</b> and <b>out-of-distribution detection</b>. You can find a full collection of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 <!-- {% include base_path %}
