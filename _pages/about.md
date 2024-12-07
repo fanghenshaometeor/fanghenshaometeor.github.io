@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) of [Department of Automation](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My advisor is [Prof. Jie Yang](https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en).
+I'm a Ph.D. student in [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) of [Department of Automation](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My advisor is [Prof. Jie YANG](https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en).
 
 Before coming to SJTU, I received the BA.Eng. degree in [College of Electronic and Information Engineering](https://see.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/) in 2018. I then received the MA.Eng. degree in [Department of Automation](https://automation.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2021.
 
