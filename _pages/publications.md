@@ -33,7 +33,7 @@ On Multi-head Ensemble of Smoothed Classifiers for Certified Robustness. **[arxi
 ---
 Kernel PCA for Out-of-Distribution Detection  
 **Kun Fang**, Qinghua Tao, Kexin Lv, Mingzhen He, Xiaolin Huang, Jie Yang  
-*Conference on Advances in Neural Information Processing Systems* (NeurIPS), 2024. **[arxiv](https://arxiv.org/abs/2402.02949)**, **[code](https://github.com/fanghenshaometeor/ood-kernel-pca)**
+*Conference on Advances in Neural Information Processing Systems* (NeurIPS), 2024. **[conf.](https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html)**, **[arxiv](https://arxiv.org/abs/2402.02949)**, **[code](https://github.com/fanghenshaometeor/ood-kernel-pca)**
 
 Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective  
 **Kun Fang**, Qinghua Tao, Xiaolin Huang, Jie Yang  
@@ -70,4 +70,4 @@ Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang
 
 Subspace Adversarial Learning.  
 Tao Li, Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2022. **[conference](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)**, **[arxiv](https://arxiv.org/abs/2111.12229)**, **[code](https://github.com/nblt/sub-at)**
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2022. **[conf.](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)**, **[arxiv](https://arxiv.org/abs/2111.12229)**, **[code](https://github.com/nblt/sub-at)**
