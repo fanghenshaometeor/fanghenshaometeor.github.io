@@ -52,6 +52,10 @@ End-to-end Kernel Learning via Generative Random Fourier Features.
 ### Papers I have co-authored
 ---
 
+Adaptive distillation on hard samples benefits consistency for certified robustness.  
+Jiawen Li, **Kun Fang**, Jie Yang  
+*International Journal of Machine Learning and Cybernetics*, 2025. **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
+
 Boosting Certified Robustness via An Expectation-based Similarity Regularization.  
 Jiawen Li, **Kun Fang**, Xiaolin Huang, Jie Yang  
 *Image and Vision Computing*, 2024. **[journal](https://doi.org/10.1016/j.imavis.2024.105272)**
