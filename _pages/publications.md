@@ -26,11 +26,16 @@ Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribu
 
 ---
 
-### Journals & Conferences
+### Conferences
 ---
 Kernel PCA for Out-of-Distribution Detection  
 **Kun Fang**, Qinghua Tao, Kexin Lv, Mingzhen He, Xiaolin Huang, Jie Yang  
 *Conference on Advances in Neural Information Processing Systems* (NeurIPS), 2024. **[conf.](https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html)**, **[arxiv](https://arxiv.org/abs/2402.02949)**, **[code](https://github.com/fanghenshaometeor/ood-kernel-pca)**
+
+---
+
+### Journals
+---
 
 Multi-head Ensemble of Smoothed Classifiers for Certified Robustness  
 **Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Xiaolin Huang, Jie Yang  
