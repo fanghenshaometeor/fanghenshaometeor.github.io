@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) of [Department of Automation](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of [Prof. Jie YANG](https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en).
+I am a Postdoc Fellow at [ASTAPLE](https://www.astaple.com/) working with [Prof. Haibo HU](https://haibohu.org/) in [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en) of [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
 
-Before coming to SJTU, I received the BA.Eng. degree in [College of Electronic and Information Engineering](https://see.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/) in 2018. I then received the MA.Eng. degree in [Department of Automation](https://automation.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2021.
+Previously, I completed my Ph.D. in March 2024 under the supervision of [Prof. Jie YANG](https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en) at [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) of [Department of Automation](https://automation.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Before that, I received the BA.Eng. degree in [College of Electronic and Information Engineering](https://see.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/) in 2018. I then received the MA.Eng. degree in [Department of Automation](https://automation.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2021.
 
 
 Research interests
