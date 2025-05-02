@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 ---
-Feel free to contact me (fanghenshao@sjtu.edu.cn) for academic communications.
+Feel free to contact me (kun.fang@polyu.edu.hk) for academic communications.
 
 <!-- My address is  -->
 ```markdown
