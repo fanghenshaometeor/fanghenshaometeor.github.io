@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : " 方堃 Kun FANG "
 title_separator          : "-"
 name                     : &name "Kun FANG"
-description              : &description "Ph.D. student"
+description              : &description "Postdoctoral Fellow"
 url                      : "https://fanghenshaometeor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fanghenshaometeor/fanghenshaometeor.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "https://fanghenshaometeor.github.io/images/profile.jpg"
   name             : "方堃 Kun FANG"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong Univ."
+  bio              : "Postdoctoral Fellow"
+  location         : "Hong Kong, China"
+  employer         : "Hong Kong PolyU."
   uri              : # URL
-  email            : "fanghenshao@sjtu.edu.cn" 
+  email            : "kun.fang@poly.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
