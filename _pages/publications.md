@@ -20,7 +20,7 @@ author_profile: true
 ### Preprint
 ---
 
-Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations. **[arxiv](https://arxiv.org/abs/2505.15284)**  
+Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations. **[arxiv](https://arxiv.org/abs/2505.15284)**, **[code](https://github.com/fanghenshaometeor/ood-kpca-extension)**  
 **Kun Fang**, Qinghua Tao, Mingzhen He, Kexin Lv, Runze Yang, Haibo Hu, Xiaolin Huang, Jie Yang, Longbin Cao
 
 Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribution Detection with Diffusion models. **[arxiv](https://arxiv.org/abs/2409.10094)**  
