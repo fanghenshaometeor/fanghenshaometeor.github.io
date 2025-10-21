@@ -28,8 +28,8 @@ Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribu
 
 ---
 
-### Conferences
----
+## Conferences
+
 <!-- <span style="font-family: 'Open Sans', sans-serif;"> -->
 <!-- <span style="font-family: 'Times New Roman', serif;"> -->
 <!-- <span style="font-family:Papyrus; font-size:1em;"> -->
@@ -72,21 +72,21 @@ Jiawen Li, <u>Kun Fang</u>, Jie Yang
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics*</span>, 2025. **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
 
 Boosting Certified Robustness via An Expectation-based Similarity Regularization  
-Jiawen Li, **Kun Fang**, Xiaolin Huang, Jie Yang  
+Jiawen Li, <u>Kun Fang</u>, Xiaolin Huang, Jie Yang  
 <span style="font-family:comic sans ms; font-size:1em;">*Image and Vision Computing*</span>, 2024. **[journal](https://doi.org/10.1016/j.imavis.2024.105272)**
 
 Improving Adversarial Robustness through A Curriculum-guided Reliable Distillation  
-Jiawen Li, **Kun Fang**, Xiaolin Huang, Jie Yang  
+Jiawen Li, <u>Kun Fang</u>, Xiaolin Huang, Jie Yang  
 <span style="font-family:comic sans ms; font-size:1em;">*Computers & Security*</span>, 2023. **[journal](https://doi.org/10.1016/j.cose.2023.103411)**, **[code](https://github.com/kevinlee26/kevin_first)**
 
 Improving the Adversarial Robustness of Quantized Neural Networks via Exploiting the Feature Diversity  
-Tianshu Chu, **Kun Fang**, Jie Yang, Xiaolin Huang  
+Tianshu Chu, <u>Kun Fang</u>, Jie Yang, Xiaolin Huang  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition Letters*</span>, 2023. **[journal](https://doi.org/10.1016/j.patrec.2023.10.024)**
 
 Unifying Gradients to Improve Real-world Robustness for Deep Networks.  
-Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang  
+Yingwen Wu, Sizhe Chen, <u>Kun Fang</u>, Xiaolin Huang  
 <span style="font-family:comic sans ms; font-size:1em;">*ACM Transactions on Intelligent Systems and Technology*</span>, 2023. **[journal](https://dl.acm.org/doi/10.1145/3617895)**, **[arxiv](https://arxiv.org/abs/2208.06228)**, **[code](https://github.com/snowien/UniG-pytorch)**
 
 Subspace Adversarial Learning.  
-Tao Li, Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang  
+Tao Li, Yingwen Wu, Sizhe Chen, <u>Kun Fang</u>, Xiaolin Huang  
 <span style="font-family:comic sans ms; font-size:1em;">*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*</span>, 2022. **[conf.](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)**, **[arxiv](https://arxiv.org/abs/2111.12229)**, **[code](https://github.com/nblt/sub-at)**
