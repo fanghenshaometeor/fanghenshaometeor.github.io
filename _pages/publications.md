@@ -68,7 +68,7 @@ Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribu
 ---
 
 Adaptive distillation on hard samples benefits consistency for certified robustness  
-Jiawen Li, **Kun Fang**, Jie Yang  
+Jiawen Li, <u>Kun Fang</u>, Jie Yang  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics*</span>, 2025. **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
 
 Boosting Certified Robustness via An Expectation-based Similarity Regularization  
