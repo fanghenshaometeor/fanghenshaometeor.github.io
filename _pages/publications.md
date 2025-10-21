@@ -17,8 +17,7 @@ author_profile: true
 
 ---
 
-### Preprint
----
+## Preprint
 
 Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations. **[arxiv](https://arxiv.org/abs/2505.15284)**, **[code](https://github.com/fanghenshaometeor/ood-kpca-extension)**  
 **Kun Fang**, Qinghua Tao, Mingzhen He, Kexin Lv, Runze Yang, Haibo Hu, Xiaolin Huang, Jie Yang, Longbin Cao
@@ -40,8 +39,7 @@ Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribu
 
 ---
 
-### Journals
----
+## Journals
 
 **Multi-head Ensemble of Smoothed Classifiers for Certified Robustness**  
 **Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Xiaolin Huang, Jie Yang  
@@ -64,10 +62,9 @@ Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribu
 
 ---
 
-### Papers I have co-authored
----
+## Co-authored Publications
 
-Adaptive distillation on hard samples benefits consistency for certified robustness  
+Adaptive Distillation on Hard Samples Benefits Consistency for Certified Robustness  
 Jiawen Li, <u>Kun Fang</u>, Jie Yang  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics*</span>, 2025. **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
 
