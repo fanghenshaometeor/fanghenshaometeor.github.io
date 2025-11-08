@@ -64,6 +64,11 @@ author_profile: true
 
 ## Co-authored Publications
 
+	
+**DIFT: Protecting Contrastive Learning against Data Poisoning Backdoor Attacks**  
+Jiang Zhu, Yulin Jin, Qingqing Ye, Zhibiao Guo, **Kun Fang**, Ruochen Du, Yingnan Zhao, Haibo Hu  
+<span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics*</span>, 2026.
+
 **Adaptive Distillation on Hard Samples Benefits Consistency for Certified Robustness**  
 Jiawen Li, **Kun Fang**, Jie Yang  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics*</span>, 2025. **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
