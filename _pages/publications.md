@@ -21,18 +21,14 @@ author_profile: true
 
 
 **Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribution Detection with Diffusion models** **[arxiv](https://arxiv.org/abs/2409.10094)**  
-**Kun Fang**, Qinghua Tao, Zuopeng Yang, Xiaolin Huang, Jie Yang
+**Kun FANG**, Qinghua TAO, Zuopeng YANG, Xiaolin HUANG, Jie YANG
 
 ---
 
 ## Conferences
 
-<!-- <span style="font-family: 'Open Sans', sans-serif;"> -->
-<!-- <span style="font-family: 'Times New Roman', serif;"> -->
-<!-- <span style="font-family:Papyrus; font-size:1em;"> -->
-<!-- <span style="font-family:comic sans ms; font-size:1em;">Kernel PCA for Out-of-Distribution Detection</span>   -->
 **Kernel PCA for Out-of-Distribution Detection**  
-**Kun Fang**, Qinghua Tao, Kexin Lv, Mingzhen He, Xiaolin Huang, Jie Yang  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Kexin LV, Mingzhen HE, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Conference on Advances in Neural Information Processing Systems (NeurIPS), 2024.*</span> **[conf.](https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html)**, **[arxiv](https://arxiv.org/abs/2402.02949)**, **[code](https://github.com/fanghenshaometeor/ood-kernel-pca)**
 
 ---
@@ -67,29 +63,29 @@ author_profile: true
 
 	
 **DIFT: Protecting Contrastive Learning against Data Poisoning Backdoor Attacks**  
-Jiang Zhu, Yulin Jin, Qingqing Ye, Zhibiao Guo, **Kun Fang**, Ruochen Du, Yingnan Zhao, Haibo Hu  
+<span style="font-family:Ink Free; font-size:1em;">Jiang ZHU, Yulin JIN, Qingqing YE, Zhibiao GUO, **Kun FANG**, Ruochen DU, Yingnan ZHAO, Haibo HU</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*AAAI Conference on Artificial Intelligence (AAAI), 2026.*</span>
 
 **Adaptive Distillation on Hard Samples Benefits Consistency for Certified Robustness**  
-Jiawen Li, **Kun Fang**, Jie Yang  
+<span style="font-family:Ink Free; font-size:1em;">Jiawen LI, **Kun FANG**, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Machine Learning and Cybernetics, 2025.*</span> **[journal](https://doi.org/10.1007/s13042-025-02568-2)**
 
 **Boosting Certified Robustness via An Expectation-based Similarity Regularization**  
-Jiawen Li, **Kun Fang**, Xiaolin Huang, Jie Yang  
+<span style="font-family:Ink Free; font-size:1em;">Jiawen LI, **Kun FANG**, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Image and Vision Computing, 2024.*</span> **[journal](https://doi.org/10.1016/j.imavis.2024.105272)**
 
 **Improving Adversarial Robustness through A Curriculum-guided Reliable Distillation**  
-Jiawen Li, **Kun Fang**, Xiaolin Huang, Jie Yang  
+<span style="font-family:Ink Free; font-size:1em;">Jiawen LI, **Kun FANG**, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Computers & Security, 2023.*</span> **[journal](https://doi.org/10.1016/j.cose.2023.103411)**, **[code](https://github.com/kevinlee26/kevin_first)**
 
 **Improving the Adversarial Robustness of Quantized Neural Networks via Exploiting the Feature Diversity**  
-Tianshu Chu, **Kun Fang**, Jie Yang, Xiaolin Huang  
+<span style="font-family:Ink Free; font-size:1em;">Tianshu CHU, **Kun FANG**, Jie YANG, Xiaolin HUANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition Letters, 2023.*</span> **[journal](https://doi.org/10.1016/j.patrec.2023.10.024)**
 
 **Unifying Gradients to Improve Real-world Robustness for Deep Networks**  
-Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang  
+<span style="font-family:Ink Free; font-size:1em;">Yingwen WU, Sizhe CHEN, **Kun FANG**, Xiaolin HUANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*ACM Transactions on Intelligent Systems and Technology, 2023.*</span> **[journal](https://dl.acm.org/doi/10.1145/3617895)**, **[arxiv](https://arxiv.org/abs/2208.06228)**, **[code](https://github.com/snowien/UniG-pytorch)**
 
 **Subspace Adversarial Learning**  
-Tao Li, Yingwen Wu, Sizhe Chen, **Kun Fang**, Xiaolin Huang  
+<span style="font-family:Ink Free; font-size:1em;">Tao LI, Yingwen WU, Sizhe CHEN, **Kun FANG**, Xiaolin HUANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.*</span> **[conf.](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)**, **[arxiv](https://arxiv.org/abs/2111.12229)**, **[code](https://github.com/nblt/sub-at)**
