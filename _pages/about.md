@@ -26,4 +26,5 @@ In addition, I have previously dabbled in **kernel methods** in machine learning
 
 Awards
 ---
-- Outstanding Reviewer for [ECCV 2024](http://fanghenshaometeor.github.io/files/outstandingreviewereccv2024.pdf).
+- Gold Reviewer for *ICML 2026*
+- Outstanding Reviewer for *ECCV 2024*.
