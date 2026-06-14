@@ -44,21 +44,21 @@ author_profile: true
 <span style="font-family:comic sans ms; font-size:1em;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*</span>
 
 **Multi-head Ensemble of Smoothed Classifiers for Certified Robustness**  
-<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Xiaolin HUANG, Jie YANG</span>  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Neural Networks, 2025.*</span> **[journal](https://doi.org/10.1016/j.neunet.2025.107426)**, **[arxiv](https://arxiv.org/abs/2211.10882)**, **[code](https://github.com/fanghenshaometeor/smoothed-multihead-ensemble)**
 
 
 **Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective**  
-<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Xiaolin HUANG, Jie YANG</span>  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Computer Vision, 2024.*</span> **[journal](https://doi.org/10.1007/s11263-024-02156-x)**, **[arxiv](https://arxiv.org/abs/2310.14227)**, **[code](https://github.com/fanghenshaometeor/ood-mode-ensemble)**
 
 **Towards Robust Neural Networks via Orthogonal Diversity**  
-<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Jia CAI, Feipeng CAI, Xiaolin HUANG, Jie YANG</span>  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Jia CAI, Feipeng CAI, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition, 2024.*</span> **[journal](https://doi.org/10.1016/j.patcog.2024.110281)**, **[arxiv](https://arxiv.org/abs/2010.12190)**, **[code](https://github.com/fanghenshaometeor/DIversity-via-Orthogonality)**
 
 
 **End-to-end Kernel Learning via Generative Random Fourier Features**  
-<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Fanghui LIU, Xiaolin HUANG, Jie YANG</span>  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Fanghui LIU, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition, 2023.*</span> **[journal](https://doi.org/10.1016/j.patcog.2022.109057)**, **[arxiv](https://arxiv.org/abs/2009.04614)**, **[code](https://github.com/fanghenshaometeor/GenerativeRFF)**<!--, **[read more](/publication/2015-10-01-paper-title-number-3)**-->
 
 ---
