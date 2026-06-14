@@ -39,8 +39,8 @@ author_profile: true
 
 ## Journals
 
-**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations**  
-<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Mingzhen HE, Kexin LV, Runze YANG, Haibo HU, Xiaolin HUANG, Jie YANG, Longbing CAO</span>  
+**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selection and Approximation**  
+<span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Mingzhen HE, Kexin LV, Runze YANG, Haibo HU, Xiaolin HUANG, Jie YANG, Longbing CAO</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*</span>
 
 **Multi-head Ensemble of Smoothed Classifiers for Certified Robustness**  
