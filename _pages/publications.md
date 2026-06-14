@@ -19,8 +19,6 @@ author_profile: true
 
 ## Preprint
 
-**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations** **[arxiv](https://arxiv.org/abs/2505.15284)**, **[code](https://github.com/fanghenshaometeor/ood-kpca-extension)**  
-**Kun Fang**, Qinghua Tao, Mingzhen He, Kexin Lv, Runze Yang, Haibo Hu, Xiaolin Huang, Jie Yang, Longbin Cao
 
 **Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribution Detection with Diffusion models** **[arxiv](https://arxiv.org/abs/2409.10094)**  
 **Kun Fang**, Qinghua Tao, Zuopeng Yang, Xiaolin Huang, Jie Yang
@@ -41,23 +39,26 @@ author_profile: true
 
 ## Journals
 
+**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations**  
+<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Mingzhen HE, Kexin LV, Runze YANG, Haibo HU, Xiaolin HUANG, Jie YANG, Longbing CAO</span>  
+<span style="font-family:comic sans ms; font-size:1em;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*</span>
+
 **Multi-head Ensemble of Smoothed Classifiers for Certified Robustness**  
-**Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Xiaolin Huang, Jie Yang  
+<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Neural Networks, 2025.*</span> **[journal](https://doi.org/10.1016/j.neunet.2025.107426)**, **[arxiv](https://arxiv.org/abs/2211.10882)**, **[code](https://github.com/fanghenshaometeor/smoothed-multihead-ensemble)**
 
 
 **Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective**  
-**Kun Fang**, Qinghua Tao, Xiaolin Huang, Jie Yang  
+<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*International Journal of Computer Vision, 2024.*</span> **[journal](https://doi.org/10.1007/s11263-024-02156-x)**, **[arxiv](https://arxiv.org/abs/2310.14227)**, **[code](https://github.com/fanghenshaometeor/ood-mode-ensemble)**
 
-
 **Towards Robust Neural Networks via Orthogonal Diversity**  
-**Kun Fang**, Qinghua Tao, Yingwen Wu, Tao Li, Jia Cai, Feipeng Cai, Xiaolin Huang, Jie Yang  
+<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Jia CAI, Feipeng CAI, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition, 2024.*</span> **[journal](https://doi.org/10.1016/j.patcog.2024.110281)**, **[arxiv](https://arxiv.org/abs/2010.12190)**, **[code](https://github.com/fanghenshaometeor/DIversity-via-Orthogonality)**
 
 
 **End-to-end Kernel Learning via Generative Random Fourier Features**  
-**Kun Fang**, Fanghui Liu, Xiaolin Huang, Jie Yang  
+<span style="font-family:Segoe Print; font-size:0.98em;">**Kun FANG**, Fanghui LIU, Xiaolin HUANG, Jie YANG</span>  
 <span style="font-family:comic sans ms; font-size:1em;">*Pattern Recognition, 2023.*</span> **[journal](https://doi.org/10.1016/j.patcog.2022.109057)**, **[arxiv](https://arxiv.org/abs/2009.04614)**, **[code](https://github.com/fanghenshaometeor/GenerativeRFF)**<!--, **[read more](/publication/2015-10-01-paper-title-number-3)**-->
 
 ---
