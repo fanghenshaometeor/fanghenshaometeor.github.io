@@ -14,12 +14,14 @@ Previously, I completed my Ph.D. in March 2025 under the supervision of [Prof. J
 
 Research interests
 ---
-My research interests focus on **trustworthy deep learning**. Currently, my works are about the **robustness** of Deep Neural Networks (DNNs) against those *pixel-perturbed* or *distribution-shifted* inputs, within the fields of **adversarial learning** and **out-of-distribution detection**.
+My research interests focus on **trustworthy deep learning**. Currently, my works are about the **robustness** and **privacy** aspects of Deep Neural Networks (DNNs), within the fields of **out-of-distribution detection** and **machine unlearning**.
 
-- DNNs trained on clean images show terrible generalization performance on those carefully-designed invisible perturbed images, *i.e.*, *adversarial examples*, which has raised widespread attention on the *adversarial robustness* of DNNs.
-- DNNs cannot generalize well on data that differs from the training distribution, *i.e.*, *In-Distribution (InD)*. In this regard, it remains a valuable task of detecting whether new samples are from the InD or OoD (Out-of-Distribution) of DNNs in the inference stage.
+- **Out-of-distribution detection**: DNNs are typically trained on a fixed In-Distribution (InD) and tend to produce overconfident predictions on inputs that deviate from this distribution. My research aims to design detection methods that reliably distinguish such Out-of-Distribution samples from InD data, thereby enhancing model robustness in open-world deployment.
+- **Machine unlearning**: Trained models often retain traces of their training data, raising privacy concerns. Machine unlearning tackles this by efficiently removing the influence of specific data points upon request, eliminating the need for costly full retraining. My work explores unlearning algorithms that balance data removal effectiveness with model fidelity, strengthening the privacy guarantees of DNNs.
 
-In addition, I have previously dabbled in **kernel methods** in machine learning.
+A central theme of my research is the exploration of **low-dimensional structures** in data representations and model parameters. This perspective provides a principled lens to analyze, detect, and manipulate the critical properties underlying trustworthy deep learning, aiming for more interpretable, efficient, and fundamentally grounded solutions.
+
+In addition, I have previously dabbled in **kernel methods** and **adversarial robustness**.
 
 ---
 
