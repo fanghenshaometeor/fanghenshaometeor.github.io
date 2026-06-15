@@ -39,7 +39,7 @@ author_profile: true
 
 **Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selection and Approximation**  
 <span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Mingzhen HE, Kexin LV, Runze YANG, Haibo HU, Xiaolin HUANG, Jie YANG, Longbing CAO</span>  
-<span style="font-family:comic sans ms; font-size:1em;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*</span>
+<span style="font-family:Patrick Hand; font-size:1em;">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</span>
 
 **Multi-head Ensemble of Smoothed Classifiers for Certified Robustness**  
 <span style="font-family:Ink Free; font-size:1em;">**Kun FANG**, Qinghua TAO, Yingwen WU, Tao LI, Xiaolin HUANG, Jie YANG</span>  
