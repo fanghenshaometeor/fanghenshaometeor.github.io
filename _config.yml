@@ -22,6 +22,7 @@ repository               : "fanghenshaometeor/fanghenshaometeor.github.io"
 author:
   # Biographic information
   avatar           : "https://fanghenshaometeor.github.io/images/profile.jpg"
+  # avatar          : "/profile.jpg"
   name             : "方堃 Kun FANG"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow"
