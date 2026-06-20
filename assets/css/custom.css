@@ -11,3 +11,25 @@
     font-weight: 400;
     font-style: normal;
 }
+
+/* Publication link badges — colored pill / capsule style */
+.pub-link {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    margin: 0 0.15em;
+    font-size: 0.75em;
+    font-weight: 600;
+    border-radius: 4px;
+    text-decoration: none !important;
+    letter-spacing: 0.02em;
+    vertical-align: middle;
+}
+.pub-link:hover {
+    filter: brightness(1.15);
+    text-decoration: none !important;
+}
+
+.pub-link--code    { background: #3a3a3a; color: #fff; }
+.pub-link--arxiv   { background: #b31b1b; color: #fff; }
+.pub-link--conf    { background: #2980b9; color: #fff; }
+.pub-link--journal { background: #27ae60; color: #fff; }
