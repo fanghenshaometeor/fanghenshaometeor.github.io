@@ -33,3 +33,43 @@
 .pub-link--arxiv   { background: #b31b1b; color: #fff; }
 .pub-link--conf    { background: #2980b9; color: #fff; }
 .pub-link--journal { background: #27ae60; color: #fff; }
+
+/* ── Publication Tab Switcher (pure CSS, no JS) ── */
+.pub-tabs {
+    margin-top: 1.5em;
+}
+.pub-tabs > input[type="radio"] {
+    display: none;
+}
+.pub-tab-label {
+    display: inline-block;
+    padding: 0.5em 1.2em;
+    margin-right: 0.3em;
+    margin-bottom: 0.4em;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9em;
+    border-bottom: 3px solid transparent;
+    color: #888;
+    transition: color 0.15s, border-color 0.15s;
+    user-select: none;
+}
+.pub-tab-label:hover {
+    color: #555;
+}
+.pub-tabs > input[type="radio"]:checked + .pub-tab-label {
+    border-bottom-color: var(--tab-accent);
+    color: var(--tab-accent);
+}
+.pub-tab-content {
+    display: none;
+    padding-top: 1.2em;
+}
+/* ~ general sibling: content panels come after all inputs+labels */
+.pub-tabs > input#tab-journals:checked    ~ #content-journals    { display: block; }
+.pub-tabs > input#tab-conferences:checked ~ #content-conferences { display: block; }
+.pub-tabs > input#tab-coauth:checked      ~ #content-coauth      { display: block; }
+
+.pub-tab--journals { --tab-accent: #27ae60; }
+.pub-tab--confs    { --tab-accent: #2980b9; }
+.pub-tab--coauth   { --tab-accent: #3a3a3a; }
