@@ -39,6 +39,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  dblp             : "https://dblp.org/pid/51/5923-4.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

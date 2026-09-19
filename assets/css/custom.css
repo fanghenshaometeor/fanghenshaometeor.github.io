@@ -73,3 +73,20 @@
 .pub-tab--journals { --tab-accent: #27ae60; }
 .pub-tab--confs    { --tab-accent: #2980b9; }
 .pub-tab--coauth   { --tab-accent: #3a3a3a; }
+
+/* CCF-A badge — gold highlight for top-tier venues */
+.ccf-badge {
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    margin-left: 0.3em;
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    border-radius: 3px;
+    color: #fff;
+    background: #c9a227;
+    vertical-align: baseline;
+    position: relative;
+    top: -1px;
+    white-space: nowrap;
+}
