@@ -28,8 +28,9 @@ In addition, my earlier research also touched on **kernel methods** and **advers
 
 Awards
 ---
-- Gold Reviewer for *ICML 2026*
-- Outstanding Reviewer for *ECCV 2024*.
+- Top Reviewer for *NeurIPS 2026*.
+- Gold Reviewer for *ICML 2026*.
+- Outstanding Reviewer for *CVPR 2026* and *ECCV 2024*.
 
 ---
 

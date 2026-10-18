@@ -67,7 +67,8 @@ author_profile: true
 <span style="font-family:Comic Neue; font-size:1em;">**Kun FANG**, Qinghua TAO, Junxu LIU, Yaxin XIAO, Yulin JIN, Qingqing YE, Jian SUN, Haibo HU</span>  
 <span style="font-family:Patrick Hand; font-size:1.1em;">Conference on Advances in Neural Information Processing Systems (NeurIPS), 2026.</span><br>
 <span style="font-size:0.85em;"><span class="ccf-badge">CCF-A</span>
-<!-- <span style="font-size:0.85em;"><a href="https://github.com/fanghenshaometeor/ood-kernel-pca" class="pub-link pub-link--code">Code</a> <a href="https://arxiv.org/abs/2402.02949" class="pub-link pub-link--arxiv">ArXiv</a> <a href="https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html" class="pub-link pub-link--conf">Conference</a></span> -->
+<a href="https://github.com/fanghenshaometeor/unlearning-feat-subspace" class="pub-link pub-link--code">Code</a> <a href="https://arxiv.org/abs/2601.22456" class="pub-link pub-link--arxiv">ArXiv</a> 
+<!-- <a href="https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html" class="pub-link pub-link--conf">Conference</a></span> -->
 
 **Kernel PCA for Out-of-Distribution Detection**  
 <span style="font-family:Comic Neue; font-size:1em;">**Kun FANG**, Qinghua TAO, Kexin LV, Mingzhen HE, Xiaolin HUANG, Jie YANG</span>  
