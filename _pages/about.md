@@ -2,38 +2,78 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at [ASTAPLE](https://www.astaple.com/), where I am honored to work with [Prof. Haibo HU](https://haibohu.org/), in [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
+I am a Postdoctoral Fellow at [ASTAPLE](https://www.astaple.com/), where I am honored to work with [Prof. Haibo HU](https://haibohu.org/), in [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). 
 
-Previously, I completed my Ph.D. in March 2025 under the supervision of [Prof. Jie YANG](https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en) at [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) in [Department of Automation](https://sais.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Before that, I received the BA.Eng. degree from [Tongji University](https://www.tongji.edu.cn/) in 2018. I then received the MA.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2021.
+My research aims at **trustworthy deep learning** for models deployed in **open-world environments**, where inputs may fall outside the training distribution and training data may need to be removed on request. I pursue this through two concrete tasks that address the **robustness** and **privacy** of these models: **out-of-distribution detection** and **machine unlearning**.
+{:.home-intro}
 
+<div class="home-tags" markdown="0">
+  <span class="home-tag home-tag--green">Trustworthy Deep Learning</span>
+  <span class="home-tag home-tag--violet">Open-World Learning</span>
+  <span class="home-tag home-tag--blue">Out-of-Distribution Detection</span>
+  <span class="home-tag home-tag--gold">Machine Unlearning</span>
+</div>
 
-Research interests
----
-My research interests focus on **trustworthy deep learning**. Currently, my works are about the **robustness** and **privacy** aspects of Deep Neural Networks (DNNs), within the fields of **out-of-distribution detection** and **machine unlearning**.
+<h2 class="home-section" id="research"><i class="fa-solid fa-flask home-section__icon home-section__icon--green" aria-hidden="true"></i>Research Interests</h2>
 
-- **Out-of-distribution detection**: DNNs are typically trained on a fixed In-Distribution (InD) and tend to produce overconfident predictions on inputs that deviate from this distribution. My research aims to design detection methods that reliably distinguish such out-of-distribution samples from InD data, thereby enhancing model robustness in open-world deployment.
-- **Machine unlearning**: Trained models often retain traces of their training data, raising privacy concerns. Machine unlearning tackles this by efficiently removing the influence of specific data points upon request, eliminating the need for costly full retraining. My work explores unlearning algorithms that balance data removal effectiveness with model fidelity, strengthening the privacy guarantees of DNNs.
+<div class="home-grid" markdown="0">
+  <div class="home-card">
+    <h3>Out-of-Distribution Detection</h3>
+    <p>Can the pretrained model recognize unseen and distribution-shift inputs?</p>
+    <div class="home-card__tags">#robustness · #generalization</div>
+  </div>
+  <div class="home-card">
+    <h3>Machine Unlearning</h3>
+    <p>Can the pretrained model forget specific knowledge of seen training samples?</p>
+    <div class="home-card__tags">#privacy</div>
+  </div>
+</div>
 
-A central theme of my research is the exploration of **low-dimensional structures** in data representations and model parameters. This perspective provides a principled lens to analyze, detect, and manipulate the critical properties underlying trustworthy deep learning, aiming for more interpretable, efficient, and fundamentally grounded solutions.
+<div class="home-callout" markdown="0">
+  <strong>A common thread: low-dimensional structure.</strong> Both problems can be approached through a low-dimensional view of data representations and model parameters — a principled lens for analyzing, detecting, and manipulating what makes a model trustworthy.
+</div>
 
-In addition, my earlier research also touched on **kernel methods** and **adversarial robustness**.
+Earlier work also touched on **kernel methods** and **adversarial robustness**.
 
----
+<h2 class="home-section" id="experience"><i class="fa-solid fa-graduation-cap home-section__icon home-section__icon--blue" aria-hidden="true"></i>Education &amp; Experience</h2>
 
+<ul class="home-timeline" markdown="0">
+  <li>
+    <span class="home-timeline__date">2025.04 – now</span>
+    <span class="home-timeline__role"><strong>Postdoc</strong></span>
+    <span class="home-timeline__school">The Hong Kong Polytechnic University</span>
+    <span class="home-timeline__meta"><a href="https://www.astaple.com/">ASTAPLE</a> · Advisor: <a href="https://haibohu.org/">Prof. Haibo HU</a></span>
+  </li>
+  <li>
+    <span class="home-timeline__date">2021.04 – 2025.03</span>
+    <span class="home-timeline__role"><strong>Ph.D.</strong></span>
+    <span class="home-timeline__school">Shanghai Jiao Tong University</span>
+    <span class="home-timeline__meta">Advisor: <a href="https://scholar.google.com/citations?user=tmx7tu8AAAAJ&amp;hl=en">Prof. Jie YANG</a></span>
+  </li>
+  <li>
+    <span class="home-timeline__date">2018.09 – 2021.03</span>
+    <span class="home-timeline__role"><strong>Master</strong></span>
+    <span class="home-timeline__school">Shanghai Jiao Tong University</span>
+  </li>
+  <li>
+    <span class="home-timeline__date">2014.09 – 2018.06</span>
+    <span class="home-timeline__role"><strong>Bachelor</strong></span>
+    <span class="home-timeline__school">Tongji University</span>
+  </li>
+</ul>
 
-Awards
----
-- Top Reviewer for *NeurIPS 2026*.
-- Gold Reviewer for *ICML 2026*.
-- Outstanding Reviewer for *CVPR 2026* and *ECCV 2024*.
+<h2 class="home-section" id="awards"><i class="fa-solid fa-trophy home-section__icon home-section__icon--gold" aria-hidden="true"></i>Honors &amp; Awards</h2>
 
----
+<ul class="home-awards" markdown="0">
+  <li><i class="fa-solid fa-award" aria-hidden="true"></i><span><strong>Top Reviewer</strong> — NeurIPS 2026</span></li>
+  <li><i class="fa-solid fa-award" aria-hidden="true"></i><span><strong>Gold Reviewer</strong> — ICML 2026</span></li>
+  <li><i class="fa-solid fa-award" aria-hidden="true"></i><span><strong>Outstanding Reviewer</strong> — CVPR 2026 &amp; ECCV 2024</span></li>
+</ul>
 
-<br>
-
-*Last update: 2026.10.18*
+*Last update: 2026.10.29 by DeepSeek*
+{:.home-updated}
