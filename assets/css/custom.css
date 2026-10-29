@@ -438,3 +438,118 @@
     margin-right: 0.35em;
     font-size: 0.9em;
 }
+
+/* ═══════════════════════════════════════════════════════════════
+   Wide layout (>=1280px): masthead, sidebar and article on one grid
+   ═══════════════════════════════════════════════════════════════ */
+@media screen and (min-width: 1280px) {
+    /* fixed sidebar width so the column axis does not drift with the viewport */
+    .sidebar {
+        width: 220px;
+    }
+
+    /* pull the article column closer to the sidebar */
+    .page,
+    .archive {
+        padding-left: 2.5%;
+    }
+
+    /* profile block centred on one axis */
+    .sidebar .author__avatar {
+        text-align: center;
+    }
+
+    .sidebar .author__content,
+    .sidebar .author__urls {
+        width: 187px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .sidebar .author__urls li a {
+        display: inline-block;
+    }
+
+    /* masthead: title on the profile axis, menu on the article edge */
+    .masthead__menu-item--lg {
+        width: 243px;
+        padding-right: 0;
+    }
+
+    .masthead__menu-item--lg a {
+        display: inline-block;
+        padding-left: 50px;
+    }
+
+    .greedy-nav .visible-links a {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   Mid layout (960–1279px): flex fallback for the 925px container
+   ═══════════════════════════════════════════════════════════════ */
+@media screen and (min-width: 960px) and (max-width: 1279px) {
+    #main,
+    .masthead__inner-wrap {
+        max-width: 1100px;
+    }
+
+    #main {
+        display: flex;
+        align-items: flex-start;
+        gap: 32px;
+    }
+
+    .sidebar {
+        position: sticky;
+        top: 90px;
+        flex: 0 0 200px;
+        width: 200px;
+        height: auto;
+        overflow: visible;
+        padding-top: 0;
+        margin-right: 0;
+    }
+
+    .page,
+    .archive {
+        flex: 1 1 auto;
+        width: auto;
+        float: none;
+        padding: 0;
+    }
+
+    .sidebar .author__avatar {
+        text-align: center;
+    }
+
+    .sidebar .author__content,
+    .sidebar .author__urls {
+        width: 187px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .sidebar .author__urls li a {
+        display: inline-block;
+    }
+
+    .masthead__menu-item--lg {
+        width: 232px;
+        padding-right: 0;
+    }
+
+    .masthead__menu-item--lg a {
+        display: inline-block;
+        padding-left: 40px;
+    }
+
+    .greedy-nav .visible-links a {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
