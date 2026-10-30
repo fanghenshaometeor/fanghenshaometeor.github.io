@@ -398,9 +398,14 @@
     margin-bottom: 0.1em;
     line-height: 1.7;
 }
-.pub-item__head .pub-title-link {
+.pub-item__head > strong {
     flex: 1 1 auto;
     min-width: 0;
+    color: #1f2d3d;
+    transition: color 0.18s ease;
+}
+.pub-item:hover .pub-item__head > strong {
+    color: #2980b9;
 }
 
 /* Year: right end of the title line */
@@ -421,16 +426,6 @@
 .pub-item .pub-authors strong,
 .pub-item .pub-authors b {
     color: #1f2d3d;
-}
-
-/* Title link */
-.pub-item .pub-title-link {
-    color: #1f2d3d;
-    text-decoration: none;
-}
-.pub-item .pub-title-link:hover {
-    color: #2980b9;
-    text-decoration: underline;
 }
 
 /* Link pills: keep labels, add icons */

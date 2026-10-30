@@ -34,7 +34,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1109/TPAMI.2026.3705778"><strong>Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selection and Approximation</strong></a>
+<strong>Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selection and Approximation</strong>
 <span class="pub-item__year">2026</span>
 </div>
 
@@ -47,7 +47,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.neunet.2025.107426"><strong>Multi-head Ensemble of Smoothed Classifiers for Certified Robustness</strong></a>
+<strong>Multi-head Ensemble of Smoothed Classifiers for Certified Robustness</strong>
 <span class="pub-item__year">2025</span>
 </div>
 
@@ -60,7 +60,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1007/s11263-024-02156-x"><strong>Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective</strong></a>
+<strong>Revisiting Deep Ensemble for Out-of-Distribution Detection: A Loss Landscape Perspective</strong>
 <span class="pub-item__year">2024</span>
 </div>
 
@@ -73,7 +73,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.patcog.2024.110281"><strong>Towards Robust Neural Networks via Orthogonal Diversity</strong></a>
+<strong>Towards Robust Neural Networks via Orthogonal Diversity</strong>
 <span class="pub-item__year">2024</span>
 </div>
 
@@ -86,7 +86,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.patcog.2022.109057"><strong>End-to-end Kernel Learning via Generative Random Fourier Features</strong></a>
+<strong>End-to-end Kernel Learning via Generative Random Fourier Features</strong>
 <span class="pub-item__year">2023</span>
 </div>
 
@@ -104,7 +104,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://arxiv.org/abs/2601.22456"><strong>Machine Unlearning in Low-Dimensional Feature Subspace</strong></a>
+<strong>Machine Unlearning in Low-Dimensional Feature Subspace</strong>
 <span class="pub-item__year">2026</span>
 </div>
 
@@ -120,7 +120,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://papers.nips.cc/paper_files/paper/2024/hash/f2543511e5f4d4764857f9ad833a977d-Abstract-Conference.html"><strong>Kernel PCA for Out-of-Distribution Detection</strong></a>
+<strong>Kernel PCA for Out-of-Distribution Detection</strong>
 <span class="pub-item__year">2024</span>
 </div>
 
@@ -138,7 +138,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/37141"><strong>DIFT: Protecting Contrastive Learning against Data Poisoning Backdoor Attacks</strong></a>
+<strong>DIFT: Protecting Contrastive Learning against Data Poisoning Backdoor Attacks</strong>
 <span class="pub-item__year">2026</span>
 </div>
 
@@ -151,7 +151,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1007/s13042-025-02568-2"><strong>Adaptive Distillation on Hard Samples Benefits Consistency for Certified Robustness</strong></a>
+<strong>Adaptive Distillation on Hard Samples Benefits Consistency for Certified Robustness</strong>
 <span class="pub-item__year">2025</span>
 </div>
 
@@ -164,7 +164,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.imavis.2024.105272"><strong>Boosting Certified Robustness via An Expectation-based Similarity Regularization</strong></a>
+<strong>Boosting Certified Robustness via An Expectation-based Similarity Regularization</strong>
 <span class="pub-item__year">2024</span>
 </div>
 
@@ -177,7 +177,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.cose.2023.103411"><strong>Improving Adversarial Robustness through A Curriculum-guided Reliable Distillation</strong></a>
+<strong>Improving Adversarial Robustness through A Curriculum-guided Reliable Distillation</strong>
 <span class="pub-item__year">2023</span>
 </div>
 
@@ -190,7 +190,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://doi.org/10.1016/j.patrec.2023.10.024"><strong>Improving the Adversarial Robustness of Quantized Neural Networks via Exploiting the Feature Diversity</strong></a>
+<strong>Improving the Adversarial Robustness of Quantized Neural Networks via Exploiting the Feature Diversity</strong>
 <span class="pub-item__year">2023</span>
 </div>
 
@@ -203,7 +203,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://dl.acm.org/doi/10.1145/3617895"><strong>Unifying Gradients to Improve Real-world Robustness for Deep Networks</strong></a>
+<strong>Unifying Gradients to Improve Real-world Robustness for Deep Networks</strong>
 <span class="pub-item__year">2023</span>
 </div>
 
@@ -216,7 +216,7 @@ author_profile: true
 <div class="pub-item" markdown="1">
 
 <div class="pub-item__head">
-<a class="pub-title-link" href="https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper"><strong>Subspace Adversarial Learning</strong></a>
+<strong>Subspace Adversarial Learning</strong>
 <span class="pub-item__year">2022</span>
 </div>
 
