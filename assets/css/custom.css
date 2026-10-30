@@ -477,6 +477,12 @@
         padding-left: 50px;
     }
 
+    /* hover underline follows the text, not the left padding */
+    .greedy-nav .visible-links .masthead__menu-item--lg a:before {
+        left: 50px;
+        width: calc(100% - 50px);
+    }
+
     .greedy-nav .visible-links a {
         margin-left: 0;
         margin-right: 0;
@@ -541,6 +547,11 @@
     .masthead__menu-item--lg a {
         display: inline-block;
         padding-left: 40px;
+    }
+
+    .greedy-nav .visible-links .masthead__menu-item--lg a:before {
+        left: 40px;
+        width: calc(100% - 40px);
     }
 
     .greedy-nav .visible-links a {

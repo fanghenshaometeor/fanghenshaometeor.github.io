@@ -75,5 +75,5 @@ Earlier work also touched on **kernel methods** and **adversarial robustness**.
   <li><i class="fa-solid fa-award" aria-hidden="true"></i><span><strong>Outstanding Reviewer</strong> — CVPR 2026 &amp; ECCV 2024</span></li>
 </ul>
 
-*Last update: 2026.10.29 by DeepSeek*
+*Last updated on 2026.10.30 by DeepSeek*
 {:.home-updated}
