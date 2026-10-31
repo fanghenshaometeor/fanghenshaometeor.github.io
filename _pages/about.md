@@ -53,7 +53,7 @@ Earlier work also touched on **kernel methods** and **adversarial robustness**.
     <span class="home-timeline__date">2021.04 – 2025.03</span>
     <span class="home-timeline__role"><strong>Ph.D.</strong></span>
     <span class="home-timeline__school">Shanghai Jiao Tong University</span>
-    <span class="home-timeline__meta">Advisor: <a href="https://scholar.google.com/citations?user=tmx7tu8AAAAJ&amp;hl=en">Prof. Jie YANG</a></span>
+    <span class="home-timeline__meta">Advisor: <a href="https://sais.sjtu.edu.cn/faculty/yangjie.html">Prof. Jie YANG</a></span>
   </li>
   <li>
     <span class="home-timeline__date">2018.09 – 2021.03</span>
@@ -75,5 +75,5 @@ Earlier work also touched on **kernel methods** and **adversarial robustness**.
   <li><i class="fa-solid fa-award" aria-hidden="true"></i><span><strong>Outstanding Reviewer</strong> — CVPR 2026 &amp; ECCV 2024</span></li>
 </ul>
 
-*Last updated on 2026.10.30 by DeepSeek*
+*Last updated on 2026.10.31 by DeepSeek.*
 {:.home-updated}
